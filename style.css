@@ -336,6 +336,7 @@ p { overflow-wrap: anywhere; color: var(--ink); }
   margin-bottom: 8px;
 }
 .card--course p { color: var(--muted); font-size: 0.96rem; margin-bottom: 0; }
+.card--course .btn { margin-top: auto; }
 
 /* Why choose us */
 .why { display: grid; grid-template-columns: 1fr; gap: 14px; }
